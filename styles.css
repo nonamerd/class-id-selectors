@@ -2,7 +2,7 @@
 
 .text-one { 
 
-    background-color:#d6a5d2; font-size: 36px;
+    background-color:#d6a5d2;
     font-family: DejaVu, Verdana, Geneva, Tahoma, sans-serif;
 
 }
@@ -34,7 +34,7 @@
 .text-five { 
 
 background-color:#d6a5d2; 
-
+font-family: DejaVu, Verdana, Geneva, Tahoma, sans-serif;
 
 }
 
